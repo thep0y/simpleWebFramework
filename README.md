@@ -1,5 +1,5 @@
 # simpleWebFramework
-通过WSGI和相关库实现一个简单的web框架
+通过WSGI和相关库(webOb)实现一个简单的web框架
 
 # 简单功能
 - 实现本地simple_server
